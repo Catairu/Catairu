@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Catalin! 👋
+## Hi there, I'm Catalin! 👋
 
 I am currently a **1st-year Master's student in Data Science** at **Sapienza University of Rome**, where I also obtained my **Bachelor's degree in Computer Science**.
 
